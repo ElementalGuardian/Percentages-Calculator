@@ -5,4 +5,4 @@ took me 5 minutes to write cause i have a calculator that lets me write python o
 
 once you download it, it will be your responsibility
 
-i am not liable for any damages or liabilities impacting you when using this script, i take absolutely no responsibility for your actions
+i got bored...
